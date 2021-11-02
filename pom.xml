@@ -45,7 +45,7 @@
 	</build>
 
 	<scm>
-		<developerConnection>scm:git:https://github.com/jai-exe/recipe_assignment.git</developerConnection>
+		<developerConnection>scm:git:git@github.com/jai-exe/recipe_assignment.git</developerConnection>
 		<tag>0.0.1</tag>
 	</scm>
 

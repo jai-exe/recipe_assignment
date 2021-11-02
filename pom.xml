@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>ca.gbc.comp3095</groupId>
 	<artifactId>recipe_assignment</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>recipe_assignment</name>
 	<description>Recipe Assignment for the course COMP3095</description>
 	<properties>
@@ -47,7 +47,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/jai-exe/recipe_assignment.git</developerConnection>
-		<tag>recipe_assignment-0.0.2</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 </project>
